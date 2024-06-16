@@ -4,5 +4,5 @@
 ![Database Schema](./图片1.png)
 
 ## Code Structure
-![Code Structure](./code structure.png)
+![Code Structure](./code_structure.png)
 
